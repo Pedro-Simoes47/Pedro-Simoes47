@@ -1,23 +1,20 @@
-## Bem-vindo(a) ao meu perfil 😁
+# Hello There!! 
 
- <div>
-   <a href="https://github.com/Pedro-Simoes47">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Simoes47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Simoes47&layout=compact&langs_count=6&theme=tokyonight"/>
+Me chamo Pedro e estou no primeiro semestre de Analise e Desenvolvimentos de Sistemas na Facens, 
+sempre gostei muito de computadores e cheguei ate fazer um tecnico de TI na ETEC Fernando Prestes porem na epoca acabei nao gostando muito dessa parte de programacao e com o passar do tempo fui criando um interese maior principalmente por conta do minecraft que me fez se interessar em Java ♨️ ainda nao tenhho muito para mostras mas espero no futuro ter um perfil recheado de repositorios para poder mostrar as minhas competencias.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href = "mailto:pedrohms.phms47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-moraes-simões-bb9891173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## Habilidades em Desenvolvimento!
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+        
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+             
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## Redes Sociais!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-moraes-simões-bb9891173)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-Simoes47)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/peterplays47/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Simoes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
