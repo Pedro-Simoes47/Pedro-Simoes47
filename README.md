@@ -1,6 +1,6 @@
 # Hello There!! 
 
-Me chamo Pedro e estou no primeiro semestre de Analise e Desenvolvimentos de Sistemas na Facens, 
+Me chamo Pedro e estou no segundo semestre de Analise e Desenvolvimentos de Sistemas na Facens, 
 sempre gostei muito de computadores e cheguei ate fazer um tecnico de TI na ETEC Fernando Prestes porem na epoca acabei nao gostando muito dessa parte de programacao e com o passar do tempo fui criando um interese maior principalmente por conta do minecraft que me fez se interessar em Java ♨️ ainda nao tenho muito para mostrar mas espero no futuro ter um perfil recheado de repositorios para poder mostrar as minhas competencias.
 
 ## Habilidades em Desenvolvimento!
