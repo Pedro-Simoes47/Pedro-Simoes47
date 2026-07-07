@@ -1,20 +1,39 @@
-# Hello There!! 
+# Olá, eu sou o Pedro! 👋
 
-Me chamo Pedro e estou no segundo semestre de Analise e Desenvolvimentos de Sistemas na Facens, 
-sempre gostei muito de computadores e cheguei ate fazer um tecnico de TI na ETEC Fernando Prestes porem na epoca acabei nao gostando muito dessa parte de programacao e com o passar do tempo fui criando um interese maior principalmente por conta do minecraft que me fez se interessar em Java ♨️ ainda nao tenho muito para mostrar mas espero no futuro ter um perfil recheado de repositorios para poder mostrar as minhas competencias.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Facens e um entusiasta do desenvolvimento Backend. Minha trajetória na tecnologia começou com o interesse em Java ♨️ através do Minecraft, o que me levou a buscar conhecimento prático e estruturado. Atualmente, estou em transição de carreira, focando em construir soluções robustas e aprender resolvendo problemas reais.
 
-## Habilidades em Desenvolvimento!
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-        
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-             
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## Redes Sociais!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hm-simoes/)
+### 🛠 Tecnologias e Ferramentas
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-Simoes47)
+*   **Linguagens:** Java, Python.
+*   **Back-end:** Spring Boot.
+*   **Mobile:** Flutter.
+*   **Banco de Dados:** Modelagem e consulta de bancos relacionais.
+*   **Ferramentas:** Git (Versionamento), Android Studio.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/peterplays47/)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Simoes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 🚀 Projetos em Destaque
+
+Aqui estão alguns dos projetos onde coloco em prática meu aprendizado:
+
+*   **[[MobilizaUrbis](https://github.com/Pedro-Simoes47/-upxiv_mobilizurbis)]:** Aplicação voltada para mobilidade urbana, com foco em backend em Spring Boot e modelagem de dados.
+*   **[[cibernexus-keropro](https://github.com/Pedro-Simoes47/upxv-cibernexus-keropro)]:** Desenvolvimento mobile em Android Studio, focando em integração e resolução de conflitos de versionamento.
+
+---
+
+### 🎓 Formação e Certificações
+
+*   **Análise e Desenvolvimento de Sistemas** | Centro Universitário Facens (Concluído, 2026).
+*   **DIO PRO (Vitalício):** Certificações em Java, Spring Framework e Inteligência Artificial.
+
+---
+
+### 📬 Vamos nos conectar!
+
+*   [LinkedIn](https://www.linkedin.com/in/pedro-hm-simoes/)
+*   Email: pedrohms.phms47@gmail.com
+
+---
+*Como meu foco é aprender "fazendo", estou sempre aberto a desafios técnicos e projetos colaborativos!*
