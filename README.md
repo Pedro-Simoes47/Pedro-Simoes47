@@ -1,6 +1,6 @@
-# Olá, eu sou o Pedro! 👋
+# Olá, eu sou o Pedro!
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Facens e um entusiasta do desenvolvimento Backend. Minha trajetória na tecnologia começou com o interesse em Java ♨️ através do Minecraft, o que me levou a buscar conhecimento prático e estruturado. Atualmente, estou em transição de carreira, focando em construir soluções robustas e aprender resolvendo problemas reais.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Facens e um entusiasta do desenvolvimento Backend. Minha trajetória na tecnologia começou com o interesse em Java através do Minecraft, o que me levou a buscar conhecimento prático e estruturado. Atualmente, estou em transição de carreira, focando em construir soluções robustas e aprender resolvendo problemas reais.
 
 ---
 
@@ -32,8 +32,7 @@ Aqui estão alguns dos projetos onde coloco em prática meu aprendizado:
 
 ### 📬 Vamos nos conectar!
 
-*   [LinkedIn](https://www.linkedin.com/in/pedro-hm-simoes/)
+*   Linkedin: [LinkedIn](https://www.linkedin.com/in/pedro-hm-simoes/)
 *   Email: pedrohms.phms47@gmail.com
 
 ---
-*Como meu foco é aprender "fazendo", estou sempre aberto a desafios técnicos e projetos colaborativos!*
